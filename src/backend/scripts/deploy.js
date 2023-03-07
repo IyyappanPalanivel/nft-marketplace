@@ -18,6 +18,7 @@ async function main() {
     // Save copies of each contracts abi and address to the frontend.
     //saveFrontendFiles(marketplace , "Marketplace");
     saveFrontendFiles(nft , "NFT");
+    saveFrontendFiles(marketplace , "Marketplace");
 
     console.log("NFT contract address",nft.address)
     console.log("Marketplace contract address",marketplace.address)
