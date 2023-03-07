@@ -1,0 +1,15 @@
+const fee = await marketplace.feePercent()
+const feePercent = await marketplace.getFeepercent()
+const feePercent = await marketplace
+const marketplace = await ethers.getContractAt("Marketplace","0x5FC8d32690cc91D4c39d9d3abcBD16989F875707")
+const feePercent = await marketplace.feePercent().getValue()
+const feePercent = await marketplace.feePercent().
+const feePercent = await marketplace.feePercent()
+const marketplace = await ethers.getContractAt("Marketplace","0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9")
+const tokenCount = await contract.tokenCount()
+const contract = await ethers.getContractAt("NFT","0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512")
+const contract = await ethers.getContractAt("NFT","0x5FbDB2315678afecb367f032d93F642f64180aa3")
+const contract = await ethers getContractAt("NFT","0x5FbDB2315678afecb367f032d93F642f64180aa3")
+const contract = await getContractAt("NFT","0x5FbDB2315678afecb367f032d93F642f64180aa3")
+const contract = await getContractAt("NFT","0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0")
+.help
